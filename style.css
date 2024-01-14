@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+   color: black;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 98.6%;
+    padding: 10px;
+    background-color: rgb(245, 133, 6);
+}
+nav{
+    padding: 10px;
+    display: flex;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+a:hover{
+    color: black;
+}
+.logo{
+    color:white;
+}
+.content{
+    position: relative;
+    top: 40px;
+    color:white;
+}
+.sec{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(245, 133, 6);
+}
+pre{
+    font-size: 25px;
+}
+img{
+    border-radius: 50%;
+    width: 16rem;
+}
+#cv{
+    position: relative;
+    top: 50px;
+    padding: 10px;
+    border: 6px;
+    background-color: black;
+    color:  rgb(245, 133, 6);
+}
+.Skills{
+    background-color:black;
+    width: 100%;
+
+}
+h2{
+    margin-left: 20px;
+    text-align: left;
+    padding: 30px;
+    color: white;
+   
+}
+#icon{
+    padding: 100px;
+    font-size: 100px;
+    color: rgb(245, 133, 6);
+}
+.Edu{
+  
+    background-color:black;
+    width: 100%;
+
+}
+.text pre{
+    color: rgb(245, 133, 6);
+}
+h4{
+    color: white;
+}
+#con{
+    margin-left: 50px;
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(245, 133, 6);
+}
+.contact{
+    background-color: black;
+    width: 100%;
+    color:rgb(245, 133, 6);
+}
+footer{
+    background-color:rgb(245, 133, 6); 
+    text-align: center;
+    color: black;
+    padding: 10px;
+}
